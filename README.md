@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @arnab-polimi
 - 👀 I’m interested in developing Algorithms
-- 🌱 I’m currently learning Telecommunications engineering at Politecnico di Milano
+- 🌱 I’ve graduated with M.Sc in Telecommunications engineering at Politecnico di Milano
 - 💞️ I’m looking to collaborate on developing Networking Algorithms about Cellular and Vehicular Communications
 - 📫 How to reach me : arnab.mondal@mail.polimi.it
 
